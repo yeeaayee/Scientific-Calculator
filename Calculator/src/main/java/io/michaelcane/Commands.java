@@ -2,9 +2,9 @@ package io.michaelcane;
 
 public class Commands {
 
-    Calculator calculator = new Calculator();
-    Display display = new Display();
-    User user = new User();
+    Calculator calculator;
+    Display display;
+    User user;
 
     Command command;
 
